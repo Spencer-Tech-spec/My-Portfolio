@@ -39,8 +39,8 @@ const Contact = () => {
                                 {
                                     icon: <Github className="text-primary" />,
                                     label: "GitHub",
-                                    value: "github.com/devnesh",
-                                    links: [{ label: "github.com/devnesh", url: "https://github.com/Spencer-Tech-spec" }]
+                                    value: "github.com/Spencer-Tech-spec",
+                                    links: [{ label: "github.com/Spencer-Tech-spec", url: "https://github.com/Spencer-Tech-spec" }]
                                 },
                                 {
                                     icon: <Linkedin className="text-secondary" />,
@@ -139,7 +139,7 @@ const Contact = () => {
 
             {/* Footer Branding */}
             <div className="container mx-auto px-6 mt-32 pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center opacity-50 text-xs uppercase tracking-widest font-bold">
-                <div>© 2026 Dev Nesh Portofolio. All Rights Reserved.</div>
+                <div>© 2026 Dev Nesh Portfolio. All Rights Reserved.</div>
                 <div className="mt-4 md:mt-0 italic">Designed for Impact. Built for Scale.</div>
             </div>
         </section>
